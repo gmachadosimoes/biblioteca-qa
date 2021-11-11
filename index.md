@@ -54,4 +54,4 @@ Viu um texto interessante e acha que ele deveria estar listado aqui? Abra um PR 
 [Agile Testers](https://www.youtube.com/c/AgileTesters)
 
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+Este site foi feito com [GitHub Pages](https://pages.github.com/).
