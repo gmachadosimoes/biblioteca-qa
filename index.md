@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+## Biblioteca QA
 
-You can use the [editor on GitHub](https://github.com/gmachadosimoes/qa-general-library/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Este projeto tem como objetivo reunir algumas das principais leituras sobre a área de QA e testes de software. As leituras aqui reunidas servem tanto a quem estiver começando na área, quanto a quem já está na área e quer manter-se atualizado.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Aqui você encontrará leituras sobre qualidade, testes, estratégia de testes, automação e muito mais!
 
-### Markdown
+Viu um texto, podcast ou vídeo interessante e acha que ele deveria estar listado aqui? Abra um PR com o link para o material e uma breve descrição do porquê você acha que o material deveria estar aqui. Qualquer dúvida, é só entrar em contato, ok?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Atenção
 
-```markdown
-Syntax highlighted code block
+Viu um texto interessante e acha que ele deveria estar listado aqui? Abra um PR com o link para o material e uma breve descrição do porquê você acha que o material deveria estar aqui. Qualquer dúvida, é só entrar em contato, ok?
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Artigos
 
-1. Numbered
-2. List
+[Função QA: o que é?](https://www.caroli.org/o-que-faz-um-qa/)
 
-**Bold** and _Italic_ and `Code` text
+[Stop trying to measure test coverage!](https://medium.com/assertqualityassurance/stop-trying-to-measure-test-coverage-9b2500e358cd)
 
-[Link](url) and ![Image](src)
-```
+[Interação e sintonia com o time: por que temos que ter sintonia com o time todo?](https://medium.com/@ronilsonribeiro/a-import%C3%A2ncia-da-intera%C3%A7%C3%A3o-entre-devs-e-qas-8ee258f8ab7d)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[Qualidade e teste de Software](https://medium.com/@MafioletiTais/qualidade-e-teste-de-software-e64c583561c)
 
-### Jekyll Themes
+[Os caminhos do testador - ebook](http://www.aprendendotestar.com.br/ebook)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gmachadosimoes/qa-general-library/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Os caminhos do testador - guia](http://www.aprendendotestar.com.br/guia)
 
-### Support or Contact
+[Ferramentas de testes](http://4alltests.com.br/ferramentas)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Guia de automação](http://www.aprendendotestar.com.br/automacao)
+
+[Curso básico de introdução a bancos de dados](https://cursos.timtec.com.br/course/introbd/intro)
+
+[Curso básico de Algoritmos](https://www.cursoemvideo.com/curso/curso-de-algoritmo)
+
+[Testes ágeis vs Testes tradicionais](https://www.devmedia.com.br/processo-de-teste-agil-x-tradicional/36854)
+
+[Testes backend (REST API) - Ferramentas de automação](https://www.infoq.com/br/articles/10-ferramentas-teste-api/)
+
+[Pipeline e devops - entrega contínua](https://www.objective.com.br/insights/devops-e-testes-automatizados/)
+
+
+## Podcasts
+
+[Podcast do Julio](https://open.spotify.com/show/5iQQ0pI1uvTT5hQo4ZoO7V?si=9d657677b2ab4a5b)
+
+[QAnsei](https://open.spotify.com/show/6C86lhNUZ6Pf4nYROy8ciI?si=925390344cf646ad)
+
+[Test & Code in Python](https://open.spotify.com/show/3TFuu4Eb7jGgR8cwGrQifa?si=5a9ffd3e789246bd)
+
+
+## Canais no YouTube
+
+[Agile Testers](https://www.youtube.com/c/AgileTesters)
+
+
+This site was built using [GitHub Pages](https://pages.github.com/).
