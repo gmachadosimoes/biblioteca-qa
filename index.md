@@ -39,6 +39,8 @@ Viu um texto interessante e acha que ele deveria estar listado aqui? Abra um PR 
 
 [Pipeline e devops - entrega contínua](https://www.objective.com.br/insights/devops-e-testes-automatizados/)
 
+[TestCoverage](https://www.martinfowler.com/bliki/TestCoverage.html)
+
 
 ## Podcasts
 
