@@ -8,7 +8,7 @@ Viu um texto, podcast ou vídeo interessante e acha que ele deveria estar listad
 
 ### Atenção!
 
-*Viu um texto interessante e acha que ele deveria estar listado aqui? Abra uma [issue](https://github.com/gmachadosimoes/biblioteca-qa/issues) com o link para o material e uma breve descrição do porquê você acha que o material deveria estar aqui. Qualquer dúvida, é só entrar em contato, ok?*
+*_Viu um texto interessante e acha que ele deveria estar listado aqui? Abra uma [issue](https://github.com/gmachadosimoes/biblioteca-qa/issues) com o link para o material e uma breve descrição do porquê você acha que o material deveria estar aqui. Qualquer dúvida, é só entrar em contato, ok?_*
 
 
 ## Artigos
