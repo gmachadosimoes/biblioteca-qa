@@ -4,13 +4,11 @@ Este projeto tem como objetivo reunir algumas das principais leituras sobre a á
 
 Aqui você encontrará leituras sobre qualidade, testes, estratégia de testes, automação e muito mais!
 
-Viu um texto, podcast ou vídeo interessante e acha que ele deveria estar listado aqui? Abra um PR com o link para o material e uma breve descrição do porquê você acha que o material deveria estar aqui. 
-
 Qualquer dúvida, é só entrar em contato pelo email *contato@biblioteca-qa.org*.
 
 ### Atenção!
 
-*_Viu um texto interessante e acha que ele deveria estar listado aqui? Abra uma [issue](https://github.com/gmachadosimoes/biblioteca-qa/issues) com o link para o material e uma breve descrição do porquê você acha que o material deveria estar aqui. Qualquer dúvida, é só entrar em contato, ok?_*
+*Viu um texto interessante e acha que ele deveria estar listado aqui? Abra uma [issue](https://github.com/gmachadosimoes/biblioteca-qa/issues) com o link para o material e uma breve descrição do porquê você acha que o material deveria estar aqui. Qualquer dúvida, é só entrar em contato, ok?*
 
 
 ## Artigos
