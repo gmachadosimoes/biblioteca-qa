@@ -13,7 +13,9 @@ Qualquer dúvida, é só entrar em contato pelo email *contato@biblioteca-qa.org
 
 ## Aprendizado em testes e automação
 [ServeRest](https://serverest.dev/)
+
 [Test Automation University](https://testautomationu.applitools.com/)
+
 [freeCodeCamp](https://www.freecodecamp.org/learn/quality-assurance/)
 
 
