@@ -8,7 +8,7 @@ Qualquer dúvida, é só entrar em contato pelo email *contato@biblioteca-qa.org
 
 ### Atenção!
 
-*Viu um texto interessante e acha que ele deveria estar listado aqui? Abra uma [issue](https://github.com/gmachadosimoes/biblioteca-qa/issues) com o link para o material e uma breve descrição do porquê você acha que o material deveria estar aqui. Qualquer dúvida, é só entrar em contato, ok?*
+*Viu um texto interessante e acha que ele deveria estar listado aqui? Abra uma [issue](https://github.com/gmachadosimoes/biblioteca-qa/issues) com o link para o material e uma breve descrição do porquê você acha que o material deveria estar aqui.*
 
 
 ## Aprendizado em testes e automação
@@ -18,8 +18,11 @@ Qualquer dúvida, é só entrar em contato pelo email *contato@biblioteca-qa.org
 
 [freeCodeCamp](https://www.freecodecamp.org/learn/quality-assurance/)
 
+[Automação de teste de software com Appium e Python](https://github.com/clarabez/appium)
 
 ## Artigos
+
+[Qual é o papel do Software Quality Assurance — QA no contexto Ágil?](https://medium.com/@_gabrielneder/qual-o-papel-do-software-quality-assurance-qa-no-contexto-%C3%A1gil-707d9bd38dca)
 
 [Função QA: o que é?](https://www.caroli.org/o-que-faz-um-qa/)
 
@@ -48,6 +51,8 @@ Qualquer dúvida, é só entrar em contato pelo email *contato@biblioteca-qa.org
 [Pipeline e devops - entrega contínua](https://www.objective.com.br/insights/devops-e-testes-automatizados/)
 
 [TestCoverage](https://www.martinfowler.com/bliki/TestCoverage.html)
+
+[How to Misuse Code Coverage](http://www.exampler.com/testing-com/writings/coverage.pdf)
 
 
 ## Podcasts
